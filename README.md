@@ -1,13 +1,28 @@
-# Skill to Hire - Coding Practice
+# DSA Practice 
 
-This repository contains coding problems and solutions that I practiced as part of the **Skill to Hire** program in my college.  
-It includes various programming exercises, logic-building problems, and algorithm implementations to improve my coding and problem-solving skills.
+This repository contains my **Data Structures and Algorithms practice** and solutions.
 
-## Topics Covered
-- Basic Programming
-- Problem Solving
-- Algorithms
-- Data Structures
+### Topics
+- Arrays
+- Strings
+- Sliding Window
+- Two Pointers
+- Recursion
+- Linked List
+- Stack & Queue
+- Binary Search
+- Sorting
+- Trees
+- Graphs
+- Dynamic Programming
 
-## Language Used
-- Java
+### Language
+**Java ☕**
+
+### Platforms
+- LeetCode
+- CodeChef
+- HackerRank
+- GeeksforGeeks
+
+> Practicing consistently to improve my problem-solving and prepare for coding interviews.
